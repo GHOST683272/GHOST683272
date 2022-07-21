@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GHOST683272
-- 👀 I’m interested in Python, C/C++,js,html,cssd
+- 👀 I’m interested in Python, C/C++,js,html
 - 🌱 I’m currently learning ...web development
 - 📫 How to reach me at discord @THE GHOST#9150
 
