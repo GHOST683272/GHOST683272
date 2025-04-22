@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GHOST683272
-- 👀 I’m interested in Python, C/C++,js,html
-- 🌱 I’m currently learning ...web development
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning various things
 - 📫 How to reach me at discord @THE GHOST#9150
 
 <!---
